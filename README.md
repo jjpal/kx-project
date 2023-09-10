@@ -11,3 +11,9 @@ Explore data
 - standarized the naming of countries across the different data sets (cities and countries)
 - reviewed distribtion of quantitative data for the global weather data set
 - filtered the global weather data set by years that included more data
+
+Visualize data
+- histogram
+- scatter plot
+- horizontal bar
+- violin plot / box plot
