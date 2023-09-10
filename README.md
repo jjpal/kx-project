@@ -1,1 +1,1 @@
-# kx-project
+# kaggleX-project
