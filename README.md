@@ -1,4 +1,7 @@
-# kaggleX-project
+# kaggle-X project
+
+Climate Time Series Analysis
+---
 
 Datasets from Kaggle
 
