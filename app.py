@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 # Incorporate data
-df = pd.read_csv('https://raw.githubusercontent.com/jjpal/kx-project/main/forecasting.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/jjpal/kx-project/main/forecasting_errors.csv')
 
 # Initialize the app
 app = Dash(__name__)
