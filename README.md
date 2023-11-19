@@ -13,6 +13,7 @@ Explore/Transform data
 - reviewed distribtion of quantitative data for the global weather data set
 - filtered the global weather data set by years that included more data
 - dropped NaN values
+- sorted
 - ...
 
 Visualize data
@@ -20,7 +21,6 @@ Visualize data
 - scatter plot
 - box plot/violin plot
 - area
-- line
 
 Time Series Modeling Methods
 - Moving Average (MA)
@@ -31,3 +31,10 @@ Time Series Modeling Methods
 - LSTM
 - Prophet
 
+Forecasting Accuracy Metrics
+- MAE
+- RMSE
+- MSE
+- MAPE
+
+Dash Application
