@@ -37,4 +37,4 @@ Forecasting Accuracy Metrics
 - MSE
 - MAPE
 
-Dash Application
+Dash Application comparing the different forecasting Accuracy Metrics
